@@ -1,9 +1,13 @@
 
 html,
 body {
-    margin-top: 4rem;
-  width: 100%;
-  height: 100%;
+    width: 100%;
+    height: 100%;
+    display: flex
+;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 body {
@@ -13,7 +17,7 @@ body {
 #cake {
   display: block;
   position: relative;
-  margin: -20em auto 0 auto;
+  margin: -72em auto 0 auto;;
 }
 
 
